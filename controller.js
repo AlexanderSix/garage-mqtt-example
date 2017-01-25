@@ -47,7 +47,7 @@ function closeGarageDoor() {
   }
 }
 
-// --- For Demonstration Purposes Only --- //
+// --- For Demonstration Purposes Only --- // 
 
 // Simulate opening the door
 setTimeout(() => {
